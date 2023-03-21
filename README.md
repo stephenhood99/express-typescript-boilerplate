@@ -9,5 +9,5 @@ The app will run on `localhost:3000`, but the port can be changed in `index.ts` 
 # What is this?
 This boilerplate code is for `Express` written in `typescript`.
 
-## Express
+## Express 
 Express is a simple web framework for `Node.js` (this means this boilerplate code is for a backend). More information can be found at [Express's website](https://expressjs.com/).
